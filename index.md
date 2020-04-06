@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## SOLKANIN SAYFASINA HOS GELDINIZ
 
-You can use the [editor on GitHub](https://github.com/solkan30/asdsf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yakın zamanda paylaşımlara başlayacağım beklemede kalın
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
